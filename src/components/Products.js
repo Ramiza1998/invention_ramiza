@@ -15,14 +15,14 @@ function Products() {
         </div>
 
         <div className='card'>
-        <h2>smartphones</h2>
+        <h2>Tecnophone</h2>
         <img src={phone3} alt=""/>
         <p>Ghc1300</p>
         <button>Buy Me</button>
         </div>
 
         <div className='card'>
-        <h2>smartphones</h2>
+        <h2>smartphone</h2>
         <img src={phone2} alt=""/>
         <p>Ghc1300</p>
         <button>Buy Me</button>

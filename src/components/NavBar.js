@@ -6,7 +6,7 @@ function NavBar() {
   return (
     <div className='header'>
     <FaApple className= 'icons'/>
-    <h2>Ramiza Phones And Accessories</h2>
+    <h2>Miza Phones And Accessories</h2>
     <ul>
     <li> <Link to ="/">Home</Link></li>
     <li><Link to ="/about">About us</Link></li>
